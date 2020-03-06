@@ -87,21 +87,22 @@ public class Storage {
 	public void addSubscriber(String user, String topic) {
 
 		//add the user as subscriber to the topic
-		try{
-			if (!subscriptions.contains(topic)) {
-				subscriptions.put(topic, new HashSet<>());
-			}
-			subscriptions.get(topic).add(user);
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
+        try {
+            if(subscriptions.containsKey(topic)){
+                subscriptions.get(topic).add(user);
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
 	public void removeSubscriber(String user, String topic) {
 
 		//remove the user as subscriber to the topic
 		try {
-			subscriptions.get(topic).remove(user);
+		    if(getSubscribers(topic).contains(user)){
+                getSubscribers(topic).remove(user);
+            }
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

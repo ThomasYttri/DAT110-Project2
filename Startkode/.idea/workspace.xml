@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06ae06f1-b25c-45b8-b1e8-f39398f61a13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Startkode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Startkode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Startkode/no/hvl/dat110/broker/Storage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Startkode/no/hvl/dat110/broker/Storage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Startkode/no/hvl/dat110/broker/storage/tests/TestStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Startkode/no/hvl/dat110/broker/storage/tests/TestStorage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="247">
+              <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
               <folding>
                 <element signature="e#1776#1784#0" expanded="true" />
               </folding>
@@ -42,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+            <state relative-caret-position="77">
+              <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,8 +70,8 @@
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/ClientSession.java" />
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java" />
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java" />
-        <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" />
         <option value="$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java" />
+        <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" />
       </list>
     </option>
   </component>
@@ -96,11 +96,6 @@
             <path>
               <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Startkode" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -115,41 +110,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dat110" type="462c0819:PsiDirectoryNode" />
               <item name="broker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dat110" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dat110" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dat110" type="462c0819:PsiDirectoryNode" />
-              <item name="iotsystem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dat110" type="462c0819:PsiDirectoryNode" />
-              <item name="messages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dat110" type="462c0819:PsiDirectoryNode" />
-              <item name="messagetransport" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
@@ -187,7 +147,10 @@
             </path>
             <path>
               <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,9 +171,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -229,22 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestStorage.testcreateTopic">
-    <configuration name="Test5Subscribe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Startkode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="no.hvl.dat110.broker.processing.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.processing.tests" />
-      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.processing.tests.Test5Subscribe" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Test7MultiPublish">
     <configuration name="Test6Publish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Startkode" />
       <extension name="coverage">
@@ -290,7 +238,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStorage.testcreateTopic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStorage.testaddSubscribers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Startkode" />
       <extension name="coverage">
         <pattern>
@@ -300,7 +248,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.storage.tests" />
       <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.storage.tests.TestStorage" />
-      <option name="METHOD_NAME" value="testcreateTopic" />
+      <option name="METHOD_NAME" value="testaddSubscribers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStorage.testremoveSubscribers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Startkode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.storage.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.storage.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.storage.tests.TestStorage" />
+      <option name="METHOD_NAME" value="testremoveSubscribers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -308,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestStorage.testcreateTopic" />
-        <item itemvalue="JUnit.TestStorage" />
         <item itemvalue="JUnit.Test7MultiPublish" />
         <item itemvalue="JUnit.Test6Publish" />
-        <item itemvalue="JUnit.Test5Subscribe" />
+        <item itemvalue="JUnit.TestStorage" />
+        <item itemvalue="JUnit.TestStorage.testremoveSubscribers" />
+        <item itemvalue="JUnit.TestStorage.testaddSubscribers" />
       </list>
     </recent_temporary>
   </component>
@@ -329,44 +293,44 @@
       <workItem from="1583351826049" duration="2458000" />
       <workItem from="1583399607222" duration="3933000" />
       <workItem from="1583485979129" duration="3097000" />
-      <workItem from="1583493870507" duration="2225000" />
+      <workItem from="1583493870507" duration="4761000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test4CreateDelete - 2020.03.06 at 12h 41m 02s.xml">
-      <configuration name="Test4CreateDelete" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test4CreateDelete - 2020.03.06 at 12h 41m 55s.xml">
-      <configuration name="Test4CreateDelete" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test5Subscribe - 2020.03.06 at 12h 42m 12s.xml">
-      <configuration name="Test5Subscribe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test6Publish - 2020.03.06 at 12h 45m 22s.xml">
-      <configuration name="Test6Publish" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test6Publish - 2020.03.06 at 12h 46m 17s.xml">
-      <configuration name="Test6Publish" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test6Publish - 2020.03.06 at 12h 47m 56s.xml">
-      <configuration name="Test6Publish" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestStorage - 2020.03.06 at 12h 52m 49s.xml">
+    <history-entry file="TestStorage - 2020.03.06 at 13h 22m 21s.xml">
       <configuration name="TestStorage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStorage - 2020.03.06 at 12h 55m 17s.xml">
+    <history-entry file="TestStorage_testaddSubscribers - 2020.03.06 at 13h 24m 38s.xml">
+      <configuration name="TestStorage.testaddSubscribers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage_testremoveSubscribers - 2020.03.06 at 13h 24m 46s.xml">
+      <configuration name="TestStorage.testremoveSubscribers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage_testremoveSubscribers - 2020.03.06 at 13h 26m 51s.xml">
+      <configuration name="TestStorage.testremoveSubscribers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage_testremoveSubscribers - 2020.03.06 at 13h 27m 24s.xml">
+      <configuration name="TestStorage.testremoveSubscribers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage_testremoveSubscribers - 2020.03.06 at 13h 27m 55s.xml">
+      <configuration name="TestStorage.testremoveSubscribers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test6Publish - 2020.03.06 at 13h 31m 18s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage - 2020.03.06 at 13h 34m 41s.xml">
       <configuration name="TestStorage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStorage_testcreateTopic - 2020.03.06 at 12h 57m 48s.xml">
-      <configuration name="TestStorage.testcreateTopic" configurationId="JUnit" />
+    <history-entry file="Test6Publish - 2020.03.06 at 13h 36m 32s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStorage_testcreateTopic - 2020.03.06 at 12h 58m 42s.xml">
-      <configuration name="TestStorage.testcreateTopic" configurationId="JUnit" />
+    <history-entry file="Test6Publish - 2020.03.06 at 13h 38m 03s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11713000" />
+    <option name="totallyTimeSpent" value="14249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
@@ -381,7 +345,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5112045" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4159664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -566,22 +530,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java">
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-731">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="77">
+          <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
           <folding>
-            <element signature="e#1776#1784#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        <state relative-caret-position="247">
+          <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1776#1784#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -603,6 +567,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -625,6 +590,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -636,6 +602,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>Startkode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -659,7 +626,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>gson-2.8.6</last-edited>
+          <last-edited>libs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,14 +1,12 @@
 package no.hvl.dat110.broker.storage.tests;
 
 import no.hvl.dat110.broker.Storage;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.jupiter.api.Test;
+import org.junit.*;
 
 import java.util.Set;
 
-import static junit.framework.TestCase.assertTrue;
 import static org.junit.Assert.*;
+
 
 public class TestStorage {
 
