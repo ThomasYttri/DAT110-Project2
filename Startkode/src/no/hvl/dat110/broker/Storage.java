@@ -74,21 +74,14 @@ public class Storage {
 	public void createTopic(String topic) {
 
 		//create topic in the storage
-		try{
-			subscriptions.put(topic, new HashSet<String>());
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		Set<String> set = new HashSet<String>();
+		subscriptions.put(topic, set);
 	}
 
 	public void deleteTopic(String topic) {
 
 		//delete topic from the storage
-		try{
-			subscriptions.remove(topic);
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		subscriptions.remove(topic);
 	}
 
 	public void addSubscriber(String user, String topic) {
@@ -96,7 +89,7 @@ public class Storage {
 		//add the user as subscriber to the topic
 		try{
 			if (!subscriptions.contains(topic)) {
-				createTopic(topic);
+				subscriptions.put(topic, new HashSet<>());
 			}
 			subscriptions.get(topic).add(user);
 		} catch (Exception e) {

@@ -1,7 +1,8 @@
 package no.hvl.dat110.messages;
 
-import com.google.gson.*;
-
+import com.google.gson.Gson;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 import no.hvl.dat110.common.Logger;
 import no.hvl.dat110.messages.*;
 import no.hvl.dat110.messagetransport.Connection;

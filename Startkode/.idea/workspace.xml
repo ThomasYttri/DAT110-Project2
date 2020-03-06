@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06ae06f1-b25c-45b8-b1e8-f39398f61a13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Startkode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Startkode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/broker/ClientSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/broker/ClientSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,53 +17,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/ClientSession.java">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+            <state relative-caret-position="267">
+              <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-731">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="43" />
               <folding>
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#1776#1784#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java">
+        <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
-              <folding>
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/client/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Broker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="131">
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,7 +68,10 @@
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/messages/CreateTopicMsg.java" />
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/messages/PublishMsg.java" />
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/ClientSession.java" />
+        <option value="$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java" />
+        <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java" />
         <option value="$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java" />
+        <option value="$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java" />
       </list>
     </option>
   </component>
@@ -102,6 +92,11 @@
             <path>
               <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
@@ -128,21 +123,99 @@
               <item name="dat110" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="iotsystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="messagetransport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Startkode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dat110" type="462c0819:PsiDirectoryNode" />
+              <item name="broker" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Startkode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,6 +229,93 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.TestStorage.testcreateTopic">
+    <configuration name="Test5Subscribe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Startkode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.processing.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.processing.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.processing.tests.Test5Subscribe" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6Publish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Startkode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.processing.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.processing.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.processing.tests.Test6Publish" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7MultiPublish" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Startkode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.processing.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.processing.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.processing.tests.Test7MultiPublish" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStorage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Startkode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.storage.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.storage.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.storage.tests.TestStorage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStorage.testcreateTopic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Startkode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.storage.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.storage.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.storage.tests.TestStorage" />
+      <option name="METHOD_NAME" value="testcreateTopic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestStorage.testcreateTopic" />
+        <item itemvalue="JUnit.TestStorage" />
+        <item itemvalue="JUnit.Test7MultiPublish" />
+        <item itemvalue="JUnit.Test6Publish" />
+        <item itemvalue="JUnit.Test5Subscribe" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -168,17 +328,51 @@
       <updated>1583351822766</updated>
       <workItem from="1583351826049" duration="2458000" />
       <workItem from="1583399607222" duration="3933000" />
+      <workItem from="1583485979129" duration="3097000" />
+      <workItem from="1583493870507" duration="2225000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Test4CreateDelete - 2020.03.06 at 12h 41m 02s.xml">
+      <configuration name="Test4CreateDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test4CreateDelete - 2020.03.06 at 12h 41m 55s.xml">
+      <configuration name="Test4CreateDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test5Subscribe - 2020.03.06 at 12h 42m 12s.xml">
+      <configuration name="Test5Subscribe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test6Publish - 2020.03.06 at 12h 45m 22s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test6Publish - 2020.03.06 at 12h 46m 17s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test6Publish - 2020.03.06 at 12h 47m 56s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage - 2020.03.06 at 12h 52m 49s.xml">
+      <configuration name="TestStorage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage - 2020.03.06 at 12h 55m 17s.xml">
+      <configuration name="TestStorage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage_testcreateTopic - 2020.03.06 at 12h 57m 48s.xml">
+      <configuration name="TestStorage.testcreateTopic" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage_testcreateTopic - 2020.03.06 at 12h 58m 42s.xml">
+      <configuration name="TestStorage.testcreateTopic" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6391000" />
+    <option name="totallyTimeSpent" value="11713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -187,7 +381,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5112045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -197,7 +391,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32913166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,46 +407,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/ConnectMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/CreateTopicMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="47" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/DeleteTopicMsg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/SubscribeMsg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -306,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Broker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="60">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -323,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/ClientSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
+        <state relative-caret-position="675">
           <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding>
             <element signature="e#525#526#0" expanded="true" />
@@ -334,13 +488,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messagetransport/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/ConnectMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/CreateTopicMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/DeleteTopicMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/DisconnectMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Dispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="168" column="12" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/messages/MessageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-795">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/broker/Storage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="113" column="9" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+        <state relative-caret-position="-731">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="43" />
           <folding>
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#1776#1784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/storage/tests/TestStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,9 +589,77 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
