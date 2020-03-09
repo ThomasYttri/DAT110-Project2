@@ -1,14 +1,13 @@
 package no.hvl.dat110.broker.processing.tests;
 
-import static org.junit.Assert.*;
-
+import no.hvl.dat110.broker.Broker;
+import no.hvl.dat110.broker.Dispatcher;
+import no.hvl.dat110.broker.Storage;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import no.hvl.dat110.broker.Broker;
-import no.hvl.dat110.broker.Dispatcher;
-import no.hvl.dat110.broker.Storage;
+import static junit.framework.TestCase.fail;
 
 public abstract class Test0Base {
 

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bed1a464-267e-4ffa-b0ca-7974648111ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat110-project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dat110-project2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test0Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test0Base.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,8 +14,116 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/ConnectBtnHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1015">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/Menus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1240">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/MessageArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/MessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test3MultipleConnections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/CommandArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1345">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test6Publish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test5Subscribe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test7MultiPublish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test0Base.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -29,49 +140,29 @@
           <expand>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Startkode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Startkode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -79,8 +170,7 @@
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -89,9 +179,52 @@
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="broker" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -100,9 +233,8 @@
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -112,9 +244,8 @@
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -123,14 +254,32 @@
             </path>
             <path>
               <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/IntelliJ/GitHub/DAT110-Project2" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Testing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="broker" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="storage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="iotsystem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="DAT110-Project2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="DAT110-Project2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="no" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hvl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dat110" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="iotsystem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
@@ -142,15 +291,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,6 +316,96 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Chapp">
+    <configuration name="BrokerServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.BrokerServer" />
+      <module name="DAT110-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.chapp.Chapp" />
+      <module name="DAT110-Project2" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../../Nedlastinger/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.chapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5Subscribe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DAT110-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.processing.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.processing.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.processing.tests.Test5Subscribe" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIoTSystem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DAT110-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.iotsystem.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.iotsystem.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.iotsystem.tests.TestIoTSystem" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStorage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DAT110-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.broker.storage.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat110.broker.storage.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.broker.storage.tests.TestStorage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BrokerServer" />
+      <item itemvalue="Application.Chapp" />
+      <item itemvalue="JUnit.Test5Subscribe" />
+      <item itemvalue="JUnit.TestIoTSystem" />
+      <item itemvalue="JUnit.TestStorage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Chapp" />
+        <item itemvalue="Application.BrokerServer" />
+        <item itemvalue="JUnit.TestIoTSystem" />
+        <item itemvalue="JUnit.TestStorage" />
+        <item itemvalue="JUnit.Test5Subscribe" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -177,25 +420,59 @@
       <workItem from="1583274255364" duration="15000" />
       <workItem from="1583275047740" duration="658000" />
       <workItem from="1583496571308" duration="123000" />
+      <workItem from="1583762701487" duration="887000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Test1ConnectDisconnect_and_6_more - 2020.03.09 at 15h 11m 32s.xml">
+      <configuration name="Test1ConnectDisconnect and 6 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test6Publish - 2020.03.09 at 15h 11m 55s.xml">
+      <configuration name="Test6Publish" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test7MultiPublish - 2020.03.09 at 15h 12m 44s.xml">
+      <configuration name="Test7MultiPublish" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1ConnectDisconnect - 2020.03.09 at 15h 13m 11s.xml">
+      <configuration name="Test1ConnectDisconnect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2Reconnect - 2020.03.09 at 15h 13m 45s.xml">
+      <configuration name="Test2Reconnect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test3MultipleConnections - 2020.03.09 at 15h 14m 20s.xml">
+      <configuration name="Test3MultipleConnections" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test4CreateDelete - 2020.03.09 at 15h 14m 48s.xml">
+      <configuration name="Test4CreateDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test5Subscribe - 2020.03.09 at 15h 15m 14s.xml">
+      <configuration name="Test5Subscribe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStorage - 2020.03.09 at 15h 15m 31s.xml">
+      <configuration name="TestStorage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIoTSystem - 2020.03.09 at 15h 16m 08s.xml">
+      <configuration name="TestIoTSystem" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="796000" />
+    <option name="totallyTimeSpent" value="1683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3287483" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.83768916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,6 +496,112 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test0Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test1ConnectDisconnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test2Reconnect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test4CreateDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test6Publish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test5Subscribe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test7MultiPublish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/no/hvl/dat110/broker/processing/tests/Test3MultipleConnections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/CommandArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1345">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/ConnectBtnHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1015">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/Menus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1240">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/MessageArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/dat110/chapp/MessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
@@ -235,6 +618,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -268,6 +652,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>DAT110-Project2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -291,6 +676,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
