@@ -54,21 +54,13 @@ public class Storage {
 	public void addClientSession(String user, Connection connection) {
 
 		//add ClientSession
-		try{
-			clients.put(user, new ClientSession(user, connection));
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		clients.put(user, new ClientSession(user, connection));
 	}
 
 	public void removeClientSession(String user) {
 
-	//remove client session for user from the storage
-		try {
-			clients.remove(user);
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		//remove client session for user from the storage
+		clients.remove(user);
 	}
 
 	public void createTopic(String topic) {
@@ -87,24 +79,18 @@ public class Storage {
 	public void addSubscriber(String user, String topic) {
 
 		//add the user as subscriber to the topic
-        try {
-            if(subscriptions.containsKey(topic)){
-                subscriptions.get(topic).add(user);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+		Set<String> subset = getSubscribers(topic);
+		subset.add(user);
+
+		subscriptions.put(topic, subset);
     }
 
 	public void removeSubscriber(String user, String topic) {
 
 		//remove the user as subscriber to the topic
-		try {
-		    if(getSubscribers(topic).contains(user)){
-                getSubscribers(topic).remove(user);
-            }
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		Set<String> subset = getSubscribers(topic);
+		subset.remove(user);
+
+		subscriptions.put(topic, subset);
 	}
 }

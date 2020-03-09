@@ -110,11 +110,7 @@ public class Dispatcher extends Stopable {
 
 		Logger.log("onCreateTopic:" + msg.toString());
 
-		try{
-			storage.createTopic(msg.getTopic());
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		storage.createTopic(msg.getTopic());
 	}
 
 	public void onDeleteTopic(DeleteTopicMsg msg) {
@@ -122,11 +118,7 @@ public class Dispatcher extends Stopable {
 		// delete the topic from the broker storage
 		Logger.log("onDeleteTopic:" + msg.toString());
 
-		try{
-			storage.deleteTopic(msg.getTopic());
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		storage.deleteTopic(msg.getTopic());
 	}
 
 	public void onSubscribe(SubscribeMsg msg) {
@@ -134,11 +126,7 @@ public class Dispatcher extends Stopable {
 		// subscribe user to the topic
 		Logger.log("onSubscribe:" + msg.toString());
 
-		try{
-			storage.addSubscriber(msg.getTopic(), msg.getUser());
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		storage.addSubscriber(msg.getUser(), msg.getTopic());
 	}
 
 	public void onUnsubscribe(UnsubscribeMsg msg) {
@@ -146,11 +134,7 @@ public class Dispatcher extends Stopable {
 		// unsubscribe user to the topic
 		Logger.log("onUnsubscribe:" + msg.toString());
 
-		try{
-			storage.removeSubscriber(msg.getTopic(), msg.getUser());
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		storage.removeSubscriber(msg.getUser(), msg.getTopic());
 	}
 
 	public void onPublish(PublishMsg msg) {
@@ -160,14 +144,9 @@ public class Dispatcher extends Stopable {
 		// messages must be sent used the corresponding client session objects
 		Logger.log("onPublish:" + msg.toString());
 
-		try{
-			Set<String> users = storage.getSubscribers(msg.getTopic());
-			for(String user : users){
-				storage.getSession(user).send(msg);
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
+		Set<String> users = storage.getSubscribers(msg.getTopic());
+		for(String user : users){
+			storage.getSession(user).send(msg);
 		}
-
 	}
 }
